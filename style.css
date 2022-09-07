@@ -1,0 +1,43 @@
+body{
+  background-color: #66BFBF;
+}
+.qr{
+  margin-left: 40%;
+  display: inline-block;
+  align:center;
+  background-color: white;
+  padding: 10px 0.1px 4px 10px;
+  position:fixed;
+  width: 280px;
+  top: 50%;
+  border-radius: 8px;
+  transform: translate(-10%,-45%);
+}
+.qr1{
+ width: 260px;
+ margin-left: 5px;
+ border-radius: 8px;
+ margin-bottom:15px;
+}
+.pr{
+margin-left: 0px;
+padding-left: 10px;
+width: 90%;
+font-size: 24px;
+}
+.t{
+  width:300px;
+ font-size:18px;
+
+}
+span{
+margin-left: 32%;
+}
+.u{
+  margin-left: 0%;
+ padding-top:rem;
+}
+.pq{
+  position: absolute;
+  transform: translate(85%,1100%);
+}
