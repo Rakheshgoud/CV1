@@ -39,5 +39,5 @@ margin-left: 32%;
 }
 .pq{
   position: absolute;
-  transform: translate(160%,1100%);
+  bottom:0;
 }
